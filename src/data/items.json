@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "name": "Natural locs",
+        "imageUrl": "/images/locs.png",
+        "price": 550
+    },
+    {
+        "id": 2,
+        "name": "Natural locs",
+        "imageUrl": "/images/locs.png",
+        "price": 550
+    },
+    {
+        "id": 3,
+        "name": "Natural locs",
+        "imageUrl": "/images/locs.png",
+        "price": 550
+    },
+    {
+        "id": 4,
+        "name": "Natural locs",
+        "imageUrl": "/images/locs.png",
+        "price": 550
+    },
+    {
+        "id": 5,
+        "name": "Natural locs",
+        "imageUrl": "/images/locs.png",
+        "price": 550
+    },
+    {
+        "id": 6,
+        "name": "Natural locs",
+        "imageUrl": "/images/locs.png",
+        "price": 550
+    }
+]
